@@ -21,6 +21,9 @@
   <a href="https://www.instagram.com/silvavictinho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-silva-6a434a160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/profile.php?id=100008142376006" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/JooVict51783233" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a>
+  <a href="https://twitter.com/JooVict51783233" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-
+  badge&logo=twitter&logoColor=white"_blank"></a>
+  
+   ![Snake animation](https://github.com/Victorfront/Victorfront/blob/output/github-contribution-grid-snake.svg)
   </div>
 
